@@ -7,4 +7,4 @@ npn install && npm start
 
 # Direct Link
 
-https://app.netlify.com/sites/byram-accordion-04/overview
+https://app.netlify.com/sites/byram-accordion-04
